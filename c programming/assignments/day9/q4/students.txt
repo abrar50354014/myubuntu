@@ -1,0 +1,12 @@
+
+Name: sam 
+Marks=55 
+
+Name: sid 
+Marks=33 
+
+Name: abrar 
+Marks=22 
+
+Name: ahmed 
+Marks=25 
