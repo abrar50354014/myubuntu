@@ -1,0 +1,11 @@
+sudo mknod /dev/mydevice c 255 0 ................adds our device in ls -al /dev/ directory
+
+sudo insmod device.ko .........................to insert module
+
+cat /proc/devices  .............................to see wheather device is added in active device list
+
+sudo rmmod device  .............................. to remove module
+
+
+
+
